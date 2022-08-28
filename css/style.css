@@ -114,4 +114,8 @@ a.logo {
   height: 73px;
   background: url("../img/cart.png") no-repeat left center;
 }
+@media (max-width: 800px)
+{
+ Displey: none;
+}
 /*# sourceMappingURL=style.css.map */
