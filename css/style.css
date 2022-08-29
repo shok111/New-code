@@ -114,8 +114,10 @@ a.logo {
   height: 73px;
   background: url("../img/cart.png") no-repeat left center;
 }
-@media (max-width: 200px){
- body {
-   Display: none;
-}}
+
+@media (max-width: 800px) {
+    body {
+      display: none;  
+    }
+  }
 /*# sourceMappingURL=style.css.map */
